@@ -4,13 +4,11 @@
    contain the root `toctree` directive.
 
 Welcome to 多罗科学python文档's documentation!
-==============================================
+======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-
+   README.md
 
 Indices and tables
 ==================
