@@ -13,6 +13,3 @@ Welcome to 多罗科学python文档's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
